@@ -1,0 +1,4 @@
+id,nome,cargo,data_admissao,salario,departamento
+1,"João da Silva","Analista de TI",2023-01-15,4500.00,NULL
+2,"Maria Souza","Assistente Administrativo",2022-09-02,3000.50,NULL
+3,"Pedro Santos","Gerente de Vendas",2023-03-10,6500.75,NULL

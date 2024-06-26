@@ -1,0 +1,6 @@
+Codigo: Nome:  Valor: quantidade:
+001    televisão 7780   2
+002    celular  6760  4
+003    watch    200  5
+
+
